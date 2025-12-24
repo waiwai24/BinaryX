@@ -10,6 +10,5 @@ Redefine the analysis based on Binary with X
 # ReadMap
 
 * [BinaryX-IDA](https://github.com/waiwai24/BinaryX-IDA)
-* BinaryX-Graph
-* BinaryX-Agent
-* BinaryX-EXP
+* [BinaryX-Graph](https://github.com/waiwai24/BinaryX-Graph)
+* [BinaryX-Agent](https://github.com/waiwai24/BinaryX-IDA)
